@@ -1,0 +1,26 @@
+<style type=text/css>
+
+h1 {text-align: center; font-family: cursive}
+
+#logo{width:200px; height: 135px; margin-top: 20px; }
+
+
+body {background-color:whitesmoke; font-family:georgia ; text-align: center
+     }
+
+.b1 { margin-left: auto; margin-right: auto; margin-bottom: auto; margin-top: auto; background-color: white; max-width:800px;  min-width: 1200 px; height: 700px
+}
+ul {text-align: centre; text-transform: uppercase;font-weight: bold }
+li {display: inline;  }
+
+
+hr {height:20px; width: 600px; background-color:	#FFD300} 
+ 
+
+ 
+a {color: black; text-decoration-line: none;  text-decoration: none; letter-spacing: 1px; font-weight: bold
+    
+}
+a:active, a.on {color:#cc3333; background-color: white
+}
+</style>
